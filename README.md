@@ -4,15 +4,22 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ## Installation
 
-Oncellikle projeyi klonlayin .(Buraya sizin reponuzdan aldiginiz link gelecek)
-[git clone](https://github.com/Tugba-Ceren/kodlyoruzilkrepo.git)
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+```bash
+git clone https://github.com/Tugba-Ceren/kodlyoruzilkrepo
+```
 
 ## Usage
 
 Projeyi klonladiktan sonra Visual Studio Code programinda aciniz.
-Linux icin:
+
+Linux için:
+
+```linux
 cd kodluyoruzilkrepo
 code .
+```
 
 ## Contributing
 
